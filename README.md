@@ -5,9 +5,10 @@ A hardware and software system that detects incorrect sitting posture using four
 > **Status:** v1, school research project, working prototype.
 > Participated in the competition of the National Center "Junior Academy of Sciences of Ukraine" (JASU) under the auspices of UNESCO, and received feedback at the
 > - I-FEST 2024 in Republic of Tunisia – 2nd place in nomination “Engineering”;
-- InventorUA  in Ukraine - 2nd place in nomination “Maintaining health and treating diseases”;
--INTARG in Poland - 1st place in category “Young inventor”
-- 3rd place at the final stage of the All-Ukrainian Competition – defence of research works of students – members of the Junior Academy of Sciences of Ukraine
+> - InventorUA  in Ukraine - 2nd place in nomination “Maintaining health and treating diseases”;
+> -INTARG in Poland - 1st place in category “Young inventor”
+> - 3rd place at the final stage of the All-Ukrainian Competition – defence of research works of students – members of the Junior Academy of Sciences of Ukraine
+> - INOVA 2024 in Croatia - 1st place 
 
 
 ![Device and PC application](docs/images/overview.png)

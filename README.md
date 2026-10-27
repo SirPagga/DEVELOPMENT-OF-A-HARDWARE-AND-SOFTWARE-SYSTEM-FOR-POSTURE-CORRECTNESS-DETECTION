@@ -3,7 +3,12 @@
 A hardware and software system that detects incorrect sitting posture using four force-sensitive resistors under a chair pad. It streams the readings to a PC (USB) or an Android phone (Bluetooth), shows them live, and alerts the user when the posture drifts away from a personal calibration.
 
 > **Status:** v1, school research project, working prototype.
-> Participated in the competition of the National Center "Junior Academy of Sciences of Ukraine" (JASU) under the auspices of UNESCO, and received feedback at the I-Fest international competition (Tunisia).
+> Participated in the competition of the National Center "Junior Academy of Sciences of Ukraine" (JASU) under the auspices of UNESCO, and received feedback at the
+> - I-FEST 2024 in Republic of Tunisia – 2nd place in nomination “Engineering”;
+- InventorUA  in Ukraine - 2nd place in nomination “Maintaining health and treating diseases”;
+-INTARG in Poland - 1st place in category “Young inventor”
+- 3rd place at the final stage of the All-Ukrainian Competition – defence of research works of students – members of the Junior Academy of Sciences of Ukraine
+
 
 ![Device and PC application](docs/images/overview.png)
 

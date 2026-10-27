@@ -141,5 +141,5 @@ MIT. The FSR 402 datasheet is not included; see the manufacturer's page.
 
 ## Author and supervisor
 
-Illia Andrushko — author. Electronic and Computer Engineering, Dublin City University.
-Vitaliy Diduk (Дідук Віталій Андрійович) — scientific supervisor. Head of the Department of Automation and Computer-Integrated Technologies, Institute of Information and Educational Technologies, Bohdan Khmelnytsky National University of Cherkasy; Candidate of Technical Sciences (PhD equivalent), Associate Professor.
+- Illia Andrushko — author. Electronic and Computer Engineering, Dublin City University.
+- Vitaliy Diduk (Дідук Віталій Андрійович) — scientific supervisor. Head of the Department of Automation and Computer-Integrated Technologies, Institute of Information and Educational Technologies, Bohdan Khmelnytsky National University of Cherkasy; Candidate of Technical Sciences (PhD equivalent), Associate Professor.

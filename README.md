@@ -116,6 +116,11 @@ PC application states: `Calibrate seat`, `Good posture :)`, `Sit up straighter o
 - Fixed-point arithmetic instead of floating point.
 - Log data with a reference to measure detection accuracy.
 - Vibration motor for tactile feedback; Bluetooth Low Energy.
+- Artificial intelligence / machine learning:
+  - Collect a labelled dataset of pressure readings from different users and postures (upright, leaning left/right, leaning forward, slouching, seat empty).
+  - Train a small classifier (for example a decision tree or a compact neural network) and compare it with the current threshold-based detection.
+  - Run the model efficiently, either on the phone or on the microcontroller (TinyML), keeping the memory and latency constraints in mind.
+  - Use the model for personalised posture recommendations instead of a single fixed threshold.
 
 ## Repository structure
 
@@ -134,6 +139,7 @@ posture-monitor-v1/
 
 MIT. The FSR 402 datasheet is not included; see the manufacturer's page.
 
-## Author
+## Author and supervisor
 
-Illia Andrushko — Electronic and Computer Engineering, Dublin City University.
+Illia Andrushko — author. Electronic and Computer Engineering, Dublin City University.
+Vitaliy Diduk (Дідук Віталій Андрійович) — scientific supervisor. Head of the Department of Automation and Computer-Integrated Technologies, Institute of Information and Educational Technologies, Bohdan Khmelnytsky National University of Cherkasy; Candidate of Technical Sciences (PhD equivalent), Associate Professor.

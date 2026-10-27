@@ -143,7 +143,7 @@ posture-monitor-v1/
 
 ## License
 
-MIT. The FSR 402 datasheet is not included; see the manufacturer's page.
+GPL-3.0, Commercial licensing available on request. The FSR 402 datasheet is not included; see the manufacturer's page.
 
 ## Author and supervisor
 
